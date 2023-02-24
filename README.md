@@ -8,8 +8,6 @@
 
 • O tema do projeto livre. Pode pensar que tipo de cadastro seria interessante e se tornaria um produto legal: Que tal uma lista de livros que foram lidos? Ou então uma lista de filmes para assistir este ano? Ou quem sabe quais são os games que o usuário já jogou e terminou … são muitas possibilidades de listas!
 
-• A escolha foi uma lista de livros, que traz consigo a coluna de quantidade total de páginas de livro inserido e possui uma coluna de controle de quantas páginas já foram lidas pelo usuário, conforme o mesmo for atualizando.
-
 <h2>O QUE É NECESSÁRIO ENTREGAR?</h2>
 
 • O back-end deve ser feito utilizando Node, Express e SQLite.
