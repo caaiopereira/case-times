@@ -49,11 +49,10 @@ cd front
 ```
 <br>
 
-<h2>PREVIEW</H2>
+<h2 align="center">FRONT</H2>
 
-### FRONT
-<img src="" />
+<img src="https://raw.githubusercontent.com/caaiopereira/case-times/main/img/front.PNG" />
 
 
-### BACK
-<img src="" />
+<h2 align="center">BACK</H2>
+<img src="https://raw.githubusercontent.com/caaiopereira/case-times/main/img/back.PNG" />
