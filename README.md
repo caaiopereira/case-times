@@ -23,7 +23,7 @@
 • React; e<br>
 • Bootstrap.<br>
 
-### 1. Instalar as dependências
+### Instalar as dependências
 
  <h3>BACK-END</h3>
 
@@ -47,3 +47,13 @@ cd front
 • npm install (instalação das dependências)
 • npm run dev (executar o projeto como desenvolvedor).
 ```
+<br>
+
+<h2>PREVIEW</H2>
+
+### FRONT
+<img src="" />
+
+
+### BACK
+<img src="" />
